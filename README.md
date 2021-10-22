@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me **20bcs114@nith.ac.in**
 
 - ⚡ Fun fact **I can sleep up to 12/15h per day & also  I can easily raise my right eyebrow without the left  :)**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cvanshulll&show_icons=true&locale=en&layout=compact" alt="SURBHI" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cvanshulll&show_icons=true&locale=en" alt="SURBHI" /></p>
