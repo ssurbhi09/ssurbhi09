@@ -1,4 +1,4 @@
- <! --- ### Hi there 👋 Surbhi this side --->
+ 
 
 <!--
 **ssurbhi09/ssurbhi09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <h3 align="center">A student, trying to learn new things.</h3>
 
 
-- 🌱 I’m currently learning **cpp**
+- 🌱 I’m currently learning **......**
 
 - 📫 How to reach me **20bcs114@nith.ac.in**
 
-- ⚡ Fun fact ** I can sleep up to 12/15h per day & also  I can easily raise my right eyebrow without the left  :)**
+- ⚡ Fun fact **I can sleep up to 12/15h per day & also  I can easily raise my right eyebrow without the left  :)**
