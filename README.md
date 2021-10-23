@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **20bcs114@nith.ac.in**
 
-- ⚡ Fun fact **I can sleep up to 12/15h per day & also  I can easily raise my right eyebrow without the left  :)**
+- ⚡ Fun fact **I can sleep up to 12/15h per day & also  I can easily raise my left eyebrow without the right  :)**
