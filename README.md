@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Heya👋, Surbhi this side</h1>
 <h3 align="center">A student, trying to learn new things.</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssurbhi09&label=Profile%20views&color=0e75b6&style=flat" alt="" ssurbhi09/> </p>
 - 🌱 I’m currently learning **......**
 
 - 📫 How to reach me **20bcs114@nith.ac.in**
