@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I can sleep up to 12/15h per day & also  I can easily raise my left eyebrow without the right  :)**
 -  😁Pronouns - She/Her
-
+<!--
 ![Surbhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssurbhi09&theme=graywhite&show_icons=true) 
 <p align="center"> <img
 Src="http://github-readme-streak-stats.herokuapp.com?user=ssurbhi09&theme=algolia&date_format=j%20M%5B%20Y%5D)" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ssurbhi09&theme=algolia" />
+-->
