@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align='right' src="https://giphy.com/gifs /Pluralsight-computer-technology-coding -L1R1tvl9svklWwpVYr" width="230">
+<img align='right' src="https://media.giphy .com/media/L1R1tvl9svklWwpVYr/giphy.gif" width="230">
 
 
 
