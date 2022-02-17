@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> Heya👋, Surbhi this side <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
-
 <img align='right' src="https://giphy.com/gifs /Pluralsight-computer-technology-coding -L1R1tvl9svklWwpVYr" width="230">
+
+
+
+
+<h1 align="center"> Heya👋, Surbhi this side <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 
 
 
