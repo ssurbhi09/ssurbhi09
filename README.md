@@ -33,3 +33,14 @@ Here are some ideas to get you started:
 Src="http://github-readme-streak-stats.herokuapp.com?user=ssurbhi09&theme=algolia&date_format=j%20M%5B%20Y%5D)" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ssurbhi09&theme=algolia" />
 
+
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{surbhi09}/count.svg" alt="surbhi09 :: Visitor's Count" /></p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/.svg" />
+</p>
