@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Jai Shri Ram (जय श्री राम), Hola Myself DJ <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+<h1 align="center"> Heya Surbhi this side <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Dhananjay+Jindal;Student+at+NIT+Hamirpur)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Surbhi+Shekhar;Student+at+NIT+Hamirpur)](https://git.io/typing-svg)
 
 
 
