@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> Heya👋, Surbhi this side <img src="https://images.app.goo.gl/fhLbTDYgJSTHji6N7" width="50"></h1>
-https://images.app.goo.gl/pgpgJNtHByMJSe6F7
+<h1 align="center"> Heya👋, Surbhi this side <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Surbhi+Shekhar;Student+at+NIT+Hamirpur)](https://git.io/typing-svg)
 
