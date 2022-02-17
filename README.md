@@ -40,7 +40,7 @@ Src="http://github-readme-streak-stats.herokuapp.com?user=ssurbhi09&theme=algoli
 
 <p align="center"><img src="https://profile-counter.glitch.me/{surbhi09}/count.svg" alt="surbhi09 :: Visitor's Count" /></p>
 
-<h3 align="center">Languages and Tools:</h3>
+
 <p align="center"> 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/.svg" />
 </p>
