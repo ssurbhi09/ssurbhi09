@@ -52,12 +52,10 @@ Src="http://github-readme-streak-stats.herokuapp.com?user=ssurbhi09&theme=algoli
 
 
 <h4 align="center">Top langs :tongue:</h4>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surbhi09&langs_count=10&theme=tokyonight&layout=compact" alt="surbhi09 :: Top Langs" /></p>
-
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surbhi09" alt="surbhi09" /></a> </p>
 
 
