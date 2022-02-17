@@ -47,3 +47,12 @@ Src="http://github-readme-streak-stats.herokuapp.com?user=ssurbhi09&theme=algoli
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surbhi09&langs_count=10&theme=tokyonight&layout=compact" alt="surbhi09 :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
+
+
+
+
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=surbhi09&show_icons=true&theme=tokyonight" alt="surbhi09 :: Profile Stats" /></p>
+<h4 align="center">Streak and Contribution :fire:</h4>
+<p align="center"> <img
+Src="http://github-readme-streak-stats.herokuapp.com?user=surbhi09&theme=tokyonight&date_format=j%20M%5B%20Y%5D)" />
