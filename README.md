@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![Surbhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssurbhi09&theme=graywhite&show_icons=true) -->
 <p align="center"> <img
 Src="http://github-readme-streak-stats.herokuapp.com?user=ssurbhi09&theme=algolia&date_format=j%20M%5B%20Y%5D)" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ssurbhi09&theme=algolia" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ssurbhi09&theme=algoliatokyonight" />
 
 
 <h2 align="center">Github stats :bar_chart:</h2>
@@ -56,3 +56,4 @@ Src="http://github-readme-streak-stats.herokuapp.com?user=ssurbhi09&theme=algoli
 <h4 align="center">Streak and Contribution :fire:</h4>
 <p align="center"> <img
 Src="http://github-readme-streak-stats.herokuapp.com?user=surbhi09&theme=tokyonight&date_format=j%20M%5B%20Y%5D)" />
+T
