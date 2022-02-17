@@ -44,3 +44,8 @@ Src="http://github-readme-streak-stats.herokuapp.com?user=ssurbhi09&theme=algoli
 <p align="center"> 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/.svg" />
 </p>
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surbhi09&langs_count=10&theme=tokyonight&layout=compact" alt="surbhi09 :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
