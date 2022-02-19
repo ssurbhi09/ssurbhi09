@@ -5,6 +5,27 @@
 
 Here are some ideas to get you started:
 
+<h2 align="center">You can reach me at :alien:</h2>
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/dhananjay-jindal-8662401b3/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://www.instagram.com/dhananjay_jindal/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://twitter.com/jindaldhananjay">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter Profile" height="30" width="30">
+  </a>
+
+ 
+</p>
+
+
+
 
 -🔭 I’m currently working on my skills.
 - 🌱 I’m currently learning cpp
