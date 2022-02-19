@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center"> Heya👋, Surbhi this side <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+<h1 align="center"> Heya👋, Surbhi this side <img src="https://media.giphy.com/media/SWoXEoE1lA0uSQcF1h/giphy.gif" width="50"></h1>
 
 
 
