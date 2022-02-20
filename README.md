@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center"><img src="https://media.giphy.com/media/3og0Izv3p7vMprq2Qw/giphy.gif" width="60"> Heya👋, Surbhi this side <img src="https://media.giphy.com/media/SWoXEoE1lA0uSQcF1h/giphy.gif" width="70"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/3og0Izv3p7vMprq2Qw/giphy.gif" width="80"> Heya👋, Surbhi this side <img src="https://media.giphy.com/media/SWoXEoE1lA0uSQcF1h/giphy.gif" width="70"></h1>
 
 
 
