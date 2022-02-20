@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" height="300">
+<img align='right' src="https://media.giphy.com/media/3o6wNMRNQ3vczLxas8/giphy.gif" width="350" height="300">
 
 
 
