@@ -59,8 +59,8 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssurbhi09&label=Profile%20views&color=0e75b6&style=flat" alt="" ssurbhi09/> </p>
 -🌱 I’m currently learning.......
 
-- 📫 How to reach me **20bcs114@nith.ac.in**
-                     **shekharsurbhi26@gmail.com**
+- 📫 How to reach me **20bcsxxx**
+                     **26@gmail.com**
 
 - ⚡ Fun fact **I can sleep up to 12/15h per day & also  I can easily raise my left eyebrow without the right  :)**
 -  😁Pronouns - She/Her
